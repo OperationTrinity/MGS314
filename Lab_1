@@ -1,0 +1,20 @@
+print(6+2)
+print((6+10)*(19_6))
+x1=10
+x2=100.05
+x3=True
+x4="This is a string"
+x5=[1,2,3,4,5]
+x6=['H','E','L','L','O']
+print(x1,x2,x3,x4,x5,x6)
+x0=x1+x2; print(x0)
+print(type(x4))
+#Activity #1
+marks_obtained=15
+total_marks=100
+percentage=(15/100)*100
+print(percentage,"%")
+x="I am a UB Student"
+print(x[2])
+print(x[0])
+print(x[0:2])
